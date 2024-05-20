@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  fastapi-app:
+    build: .
+    container_name: my_fastapi_app_container
+    ports:
+      - "8000:8000"
+    environment:
+      LOG_LEVEL: "INFO"
+
+    volumes:
+      - .:/app

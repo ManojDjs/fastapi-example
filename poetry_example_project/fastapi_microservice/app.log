@@ -1,0 +1,23 @@
+2024-05-19 00:45:48,519 - root - INFO - Request: / completed in 0.002026081085205078 seconds
+2024-05-19 00:45:48,581 - root - INFO - Request: /favicon.ico completed in 0.0004508495330810547 seconds
+2024-05-19 00:45:59,515 - root - INFO - Request: /docs completed in 0.0012660026550292969 seconds
+2024-05-19 00:45:59,984 - root - INFO - Request: /openapi.json completed in 0.009185075759887695 seconds
+2024-05-19 00:46:21,818 - app.main - INFO - CSV File Name: industry.csv
+2024-05-19 00:46:21,821 - root - INFO - Request: /upload/ completed in 0.004514217376708984 seconds
+2024-05-19 00:46:28,780 - app.main - INFO - CSV File Name: industry.csv
+2024-05-19 00:46:28,782 - root - INFO - Request: /upload/ completed in 0.003287076950073242 seconds
+2024-05-19 00:47:34,047 - root - INFO - Request: /docs completed in 0.0010099411010742188 seconds
+2024-05-19 00:47:34,094 - root - INFO - Request: /openapi.json completed in 0.0062830448150634766 seconds
+2024-05-19 00:47:44,497 - app.main - INFO - CSV File Name: industry.csv
+2024-05-19 00:47:44,499 - root - INFO - Request: /upload/ completed in 0.004373073577880859 seconds
+2024-05-19 00:47:57,892 - root - INFO - Request: /docs completed in 0.0009908676147460938 seconds
+2024-05-19 00:47:57,940 - root - INFO - Request: /openapi.json completed in 0.0047397613525390625 seconds
+2024-05-19 00:48:08,337 - app.main - INFO - CSV File Name: industry.csv
+2024-05-19 00:48:08,338 - root - INFO - Request: /upload/ completed in 0.003423929214477539 seconds
+2024-05-19 00:48:20,181 - app.main - INFO - CSV File Name: industry.csv
+2024-05-19 00:48:20,184 - root - INFO - Request: /upload/ completed in 0.00461888313293457 seconds
+2024-05-19 00:48:39,938 - app.main - INFO - CSV File Name: industry.csv
+2024-05-19 00:48:39,940 - root - INFO - Request: /upload/ completed in 0.0037899017333984375 seconds
+2024-05-19 00:49:30,592 - root - INFO - Request: / completed in 0.002293825149536133 seconds
+2024-05-19 00:50:11,644 - app.main - INFO - running infromations
+2024-05-19 00:50:11,645 - root - INFO - Request: / completed in 0.0020461082458496094 seconds
